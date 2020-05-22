@@ -1,2 +1,2 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+Projeto do Curso Arquitetura CSS da Alura.
